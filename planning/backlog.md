@@ -30,6 +30,8 @@
 - add a site map in the footer.
 - [ ] As a user, I want to have a logo in my home page.
 - add a logo on the top of the page as well as on the footer.
+- [ ] As a user, I want to see a proper view of my home page in different devices.
+ - make the web page responsive.
 
 ## Could haves
 
