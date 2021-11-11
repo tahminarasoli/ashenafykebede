@@ -1,6 +1,6 @@
-# (project name)
+# Tahmina's Portfolio 
 
-<!-- describe your project -->
+This is a project to build a personal protfolio for Tahmina Rasoli.
 
 ## Getting Started
 
