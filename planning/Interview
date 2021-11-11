@@ -82,20 +82,36 @@ Finally the iformation that should be present in his home page are his projects.
 Ashenafi came from Etiyopie and he has a rich background from his home country. As he has a programing related background, he got the interest to learn and work as a web developer.
 For the time being, he is studying at Hack Your Future Belgium, which is a web development course for newcomers.
 He already has some programming skills, and he wants to build his capacity to work as a freelancer.
-Moreover, he wants to have his own firm and work independently.
+Moreover, he wants to have his own business and work independently.
 <!-- Consolidate your notes into a few sentences. Do your best to express what your partner was trying to say, not what you learned from them. -->
 
 ---
 
 ## 2. Follow-Up Interview
-
+### questions
+Are you happy with the first interview, is there anything not covered yet?
+- he want to add some questions related to his skills.
+How should be the page layout?
+- he like to have one landing page with short information sections. 
+And few other pages linked to each sections.
+Which colors do you want to use in your home page?
+- he prefere light colors like pale blue color.
+Is there any specific thing that you want wondering about?
+- he will choose the fonts and colors during the design period.
+ 
 <!--
   In this follow up interview you will present to your partner a summary of your first interview. You will do your best effort to understand, rephrase, and communicate your partners needs back to them. Take this chance to listen for their feedback on how well you understand their situation. Update your notes accordingly
 -->
 
 ### Notes
 
+there can be few sections in `about` page.
+one section for education background.
+one section for experience and career background and one section that covers skills.
+
 ### Summary
+
+The questions that are not asked in the first interview were asked in the second interview. This information is also important to consider in the design and development phases.
 
 ---
 
@@ -103,17 +119,32 @@ Moreover, he wants to have his own firm and work independently.
 
 <!-- Take some time to consolidate & summarize what you learned in the previous two interviews. -->
 
-### Needs
 
+### Needs
+Ashenafi is looking for a solution to present himself in the online world. As he is interested to work as a freelancer, he wants to have a home page that represents his projects, skills, and abilities.
 <!-- What exactly does your partner need from their home page? Are they looking for collaborators? A job?Learning opportunities? Or something you never expected? -->
 
 ### Insights
 
 <!-- New learnings about your partner to use in your design -->
+It's a modern layout website with a light blue background color.
+There is one landing page that contains different sections.
+A landing page is linked to other few pages throughout navigation.
+There are more links to make access to other pages possible, from each section.
+There is one profile picture with a short about info.
+Tne section for projects is necessary.
+Tt the bottom of the page, there is a contact form as well as contact information for those who want to directly contact him.
 
+ 
 ---
 
 ## 4. Define the Problem
+
+Ashenafi is a web developer and he has a pile of projects. 
+Recently he decided to start working as a freelancer. He needs a way to reach out to more people who want to hire freelancers to get better options to work.
+Then he decided to start listing his projects and skills to present to his customers.
+A better idea is to have a home page that contains all the information about him.
+Most of his page visitors are people and companies who want to hire freelance web developers.
 
 <!--
   In your own words describe:
@@ -138,8 +169,9 @@ Moreover, he wants to have his own firm and work independently.
   How are the designs different? How does each one serve your partner differently?
 -->
 
-- [wireframe name]()
-- ...
+- [wireframe name](/planning/my-2021-11-10-1204.png)
+
+
 
 ---
 
