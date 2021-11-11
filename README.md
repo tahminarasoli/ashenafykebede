@@ -1,6 +1,6 @@
-# Tahmina's Portfolio 
+# My Portfolio 
 
-This is a project to build a personal protfolio for Tahmina Rasoli.
+This is a project to build a personal protfolio for Ashenafi Kebede.
 
 ## Getting Started
 
