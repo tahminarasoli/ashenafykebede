@@ -25,13 +25,14 @@
 - add phone number and email address for direct contact.
 
 ## Should haves
-
+- [ ] As a user, I want to see information about my skills.
+ - add a section in about page for skills.
 - [ ] As a user, I want to see how many pages I have.
 - add a site map in the footer.
 - [ ] As a user, I want to have a logo in my home page.
 - add a logo on the top of the page as well as on the footer.
 - [ ] As a user, I want to see a proper view of my home page in different devices.
- - make the web page responsive.
+- make the web page responsive.
 
 ## Could haves
 
